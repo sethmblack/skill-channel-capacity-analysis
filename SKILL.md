@@ -4,7 +4,7 @@ description: Analyze any communication system—human or technical—to understa
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3558
+  version: 1.0.3559
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - channel-capacity-analysis
